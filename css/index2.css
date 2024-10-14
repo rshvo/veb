@@ -1,0 +1,38 @@
+body{
+    background-color: white;
+}
+.back {
+    color: yellow;
+    background-color: darkblue;
+    border: solid 2px yellow;
+    border-radius: 5px;
+}
+.mi{
+    color: Blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: italic;
+}
+.i{
+    height: 300px;
+}
+.she{
+    height: 300px;
+
+}
+.we{
+    height: 300px;
+}
+.plus{
+    height: 100px;
+    position: relative;
+    bottom: 6rem;
+}
+.rovno {
+    height: 100px;
+    position: relative;
+    bottom: 6rem;
+}
+body{
+  
+}

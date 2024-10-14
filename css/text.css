@@ -1,0 +1,36 @@
+.spisok {
+    color: black;
+    border: solid 3px blue;
+    border-radius: 10px;
+    width: 54px;
+}
+.spisok2 {
+    color: black;
+    border: solid 3px blue;
+    border-radius: 10px;
+    width: 110px;
+}
+.bar{
+    background-color: black;
+}
+.tablica{
+    background-color: burlywood;
+}
+.button{
+    border: solid 2px;
+    border-radius: 10px;
+    color: deeppink;
+    background-color: cornflowerblue;
+}
+.vk{
+    color: black;
+}
+.next{
+    color: yellow;
+    background-color: blue;
+    border: solid 2px black;
+    border-radius: 5px;
+}
+.cat{
+    width: 100px;
+}

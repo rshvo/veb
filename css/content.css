@@ -1,0 +1,13 @@
+body{
+    background-color: fuchsia;
+}
+h1{
+   color: white;
+}
+.laabel{
+    font-size: 20px;
+}
+.logiiin{
+    position: relative;
+    left: 0.5rem;
+}
